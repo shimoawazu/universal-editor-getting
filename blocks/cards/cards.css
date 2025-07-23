@@ -14,7 +14,7 @@
 
 .cards .cards-card-body {
   margin: 16px;
-  color: #0000ff; /* もしくは var(--text-color) */
+  color: var(--text-color); /* もしくは #ff0000 */
 }
 
 .cards .cards-card-image {
